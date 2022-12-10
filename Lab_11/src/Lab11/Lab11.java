@@ -1,6 +1,6 @@
 package Lab11;
 import java.util.Scanner;
-
+/*Rafael Sanches-Gambim*/
 public class Lab11 {
    
    public static int fibonacci(int n) {
